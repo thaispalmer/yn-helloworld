@@ -1,0 +1,14 @@
+{
+  "name": "yn-helloworld",
+  "version": "1.0.0",
+  "description": "YourNode Hello World application",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://bitbucket.org/yournode/yn-helloworld.git"
+  },
+  "author": "YourNode",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
